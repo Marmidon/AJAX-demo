@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<management>
+  <teammember>
+    <name>Tom</name>
+    <title>Professor</title>
+    <bio>Computer Science Professor at Centennial College</bio>
+    <contact>(416) 938-2660</contact>
+  </teammember>
+
+  <teammember>
+    <name>John</name>
+    <title>Professor</title>
+    <bio>Computer Science Professor at Centennial College</bio>
+    <contact>(416) 555-5550</contact>
+  </teammember>
+
+  <teammember>
+    <name>Ilia</name>
+    <title>Coordinator</title>
+    <bio>Computer Science Coordinator at Centennial College</bio>
+    <contact>(416) 555-5551 ext 3000</contact>
+  </teammember>
+  
+</management>
